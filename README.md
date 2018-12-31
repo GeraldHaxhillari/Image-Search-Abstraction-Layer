@@ -1,4 +1,4 @@
-mage Search Abstraction Layer
+Image Search Abstraction Layer
 ==============================
 
 An API which allows to get a list of links to images related to a specific term, and the latest searches.
